@@ -19,7 +19,7 @@ Pandas & NumPy
 
 Seaborn & Matplotlib
 
-XGBoost
+Random Forest Classifier
 
 Sample Output
 Confusion matrix for model comparison
