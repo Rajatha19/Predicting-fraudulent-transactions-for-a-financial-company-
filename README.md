@@ -1,4 +1,4 @@
-**Fraud Detection Using Machine Learning:**
+## Fraud Detection Using Machine Learning:
 
 This project focuses on detecting fraudulent financial transactions using machine learning techniques. With millions of transactions processed every day, fraud detection is essential for ensuring financial security and reducing monetary loss. The dataset used is large-scale (~6.3 million entries), allowing for robust model training and evaluation.
 Features
